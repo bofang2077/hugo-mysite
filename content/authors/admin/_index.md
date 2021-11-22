@@ -1,9 +1,8 @@
 ---
 title: Bo Fang
 role: Doctoral Student of HRD
-avatar_filename: 20200807132929091_save-01-01.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: capture.png
+bio: ""
 interests:
   - International/National HRD
   - Employee engagement
