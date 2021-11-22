@@ -1,77 +1,54 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Bo Fang
+role: Doctoral Student of HRD
+avatar_filename: 20200807132929091_save-01-01.jpeg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - International/National HRD
+  - Employee engagement
+  - Training and Development.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: fang0297@umn.edu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bo-fang-21b14ba3
+organizations:
+  - name: "Department of Organizational Leadership, Policy, and Development "
+    url: https://www.cehd.umn.edu/olpd/
+  - name: University of Minnesota
+    url: https://twin-cities.umn.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: MEd in Human Resource Development
+      institution: University of Minnesota
+      year: 2019
+    - course: BSc in Applied Psychology
+      institution: Anqing Normal University
+      year: 2016
+email: fang0297@umn.edu
+superuser: true
 highlight_name: true
 ---
+# ***Hey, I am Bo!***
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thanks for visiting my website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+![](img_8086.jpg)
+
+I am a doctoral student of HRD in the Department of Organizational Leadership, Policy, and Development, University of Minnesota. I am interested in finding the patterns behind the work behaviors, helping employees work with full engagement and meaningfulness, and improving individual and organizational development. More generally, my research focuses on exploring how HRD theories and interventions can contribute to the development of individuals, organizations, and society beyond different cultural backgrounds.
+
+Prior to coming to the HRD program, I was a training specialist in Ping An Life insurance where I worked on sales training and development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
