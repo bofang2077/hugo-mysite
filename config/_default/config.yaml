@@ -5,7 +5,7 @@
 
 title:  # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '© 2021 Bo Fang | Powered by the Academic theme for Hugo.' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Bo Fang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
