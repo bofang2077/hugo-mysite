@@ -5,13 +5,13 @@ avatar_filename: https://www.cehd.umn.edu/olpd/images/students/fang0297.jpg
 bio: ""
 interests:
   - International/National HRD
-  - Employee engagement
+  - Employee Engagement
   - Training and Development
   - Mixed-methods
 social:
-  - icon: envelope
+  - icon: gmail 
     icon_pack: fas
-    link: fang0297@umn.edu
+    link: mailto:fang0297@umn.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
