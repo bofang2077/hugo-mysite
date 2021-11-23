@@ -9,23 +9,23 @@ interests:
   - Training and Development
   - Mixed-methods
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: envelope 
     icon_pack: fas
-    link: "mailto:fang0297@umn.edu" 
+    link: fang0297@umn.edu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com 
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bo-fang-21b14ba3
 organizations:
-  - name: "Department of Organizational Leadership, Policy, and Development "
+  - name: Department of Organizational Leadership, Policy, and Development
     url: https://www.cehd.umn.edu/olpd/
   - name: University of Minnesota
     url: https://twin-cities.umn.edu/
