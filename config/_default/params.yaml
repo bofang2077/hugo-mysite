@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: fang0297@umn.edu
-phone: +(1)651-206-4501
+phone: +(1) 651-206-4501
 address:
   street: 178 Pillsbury Dr SE
   city: Minneapolis
@@ -138,13 +138,6 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: 'google'
-  api_key: ''
-  zoom: 15
-coordinates:
-  latitude: '44.9778'
-  longitude: '-93.2373'
 marketing:
   google_analytics: ''
   google_tag_manager: ''
@@ -158,3 +151,11 @@ cms:
 icon:
   pack:
     ai: true
+
+# map:
+# provider: 'google'
+# api_key: ''
+# zoom: 15
+# oordinates:
+# latitude: '44.9778'
+# longitude: '-93.2373'
