@@ -9,14 +9,12 @@ interests:
   - Training and Development
   - Mixed-methods
 social:
-  - icon: envelope 
-    icon_pack: fas
-    link: mailto:fang0297@umn.edu
-    display:
-      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
+  - icon: envelope 
+    icon_pack: fas
+    link: "mailto:fang0297@umn.edu" 
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com
