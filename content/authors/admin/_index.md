@@ -12,6 +12,8 @@ social:
   - icon: envelope 
     icon_pack: fas
     link: mailto:fang0297@umn.edu
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
