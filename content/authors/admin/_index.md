@@ -2,7 +2,7 @@
 title: Bo Fang
 role: Doctoral Student of HRD
 avatar_filename: https://www.cehd.umn.edu/olpd/images/students/fang0297.jpg
-bio: ""
+bio: " *To the people we love* "
 interests:
   - International/National HRD
   - Employee Engagement
