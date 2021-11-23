@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope 
     icon_pack: fas
-    link: fang0297@umn.edu
+    link: mailto:fang0297@umn.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com 
