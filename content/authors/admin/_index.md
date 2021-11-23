@@ -41,9 +41,9 @@ email: fang0297@umn.edu
 superuser: true
 highlight_name: true
 ---
-# **Hey, I am Bo!***
+# **Hey, I am Bo!**
 
-Thanks for visiting my website. 👋 
+Thanks for visiting my website 👋
 
 ![](img_8086.jpg)
 
