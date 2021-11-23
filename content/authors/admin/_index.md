@@ -2,7 +2,7 @@
 title: Bo Fang
 role: Doctoral Student of HRD
 avatar_filename: https://www.cehd.umn.edu/olpd/images/students/fang0297.jpg
-bio: " *To the people we love* "
+bio: "我见青山多妩媚,料青山见我应如是"
 interests:
   - International/National HRD
   - Employee Engagement
@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/bofang2077
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bo-fang-21b14ba3
