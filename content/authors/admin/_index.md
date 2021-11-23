@@ -9,7 +9,7 @@ interests:
   - Training and Development
   - Mixed-methods
 social:
-  - icon: gmail 
+  - icon: envelope 
     icon_pack: fas
     link: mailto:fang0297@umn.edu
   - icon: twitter

@@ -1,7 +1,8 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+
+##### locked until use widget: featurette ########
 
 # This file represents a page section.
 headless: false
