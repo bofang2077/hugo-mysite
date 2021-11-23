@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: fang0297@umn.edu
-phone: 651 206 4501
+phone: +(1)651-206-4501
 address:
   street: 178 Pillsbury Dr SE
   city: Minneapolis
@@ -29,9 +29,7 @@ address:
   postcode: '55455'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+
 directions: Room 206 Burton Hall
 office_hours:
   - 'By appointment'
@@ -108,7 +106,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
@@ -141,9 +139,12 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'google'
   api_key: ''
   zoom: 15
+coordinates:
+  latitude: '44.9778'
+  longitude: '-93.2373'
 marketing:
   google_analytics: ''
   google_tag_manager: ''
